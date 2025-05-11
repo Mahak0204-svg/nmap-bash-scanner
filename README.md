@@ -23,9 +23,13 @@ This project is focused on automating network scanning tasks using Nmap (Network
 ## Folder Structure
 nmap-bash-scanner/
 ├── README.md
+
 ├── scan.sh
+
 └── results/
+
 └── [targetname]_scan.txt
+
 └── LICENSE
 
 ## How It Works
