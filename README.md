@@ -72,6 +72,7 @@ nmap -A $target | tee -a $filename
 
 echo -e "\nScan completed. Check the file: $filename"
 
+
 ## Project Milestones
 
 * [x] Setup Nmap and Bash environment
